@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Ian e eu sou estudante de computação</p>
+<p align="left">Meu nome é Ian e eu sou estudante de Ciência da Computação</p>
 
 ###
 
